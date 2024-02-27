@@ -12,11 +12,11 @@ public class EstruturaDeDados {
         // 1 -
         // 2 -
 
-        System.out.println(nomes.get(0));
-        for( String nome : nomes) {
-            System.out.println("Nome e:" + nome);
-        }
+        // System.out.println(nomes.get(0));
+        // for( String nome : nomes) {
+        // System.out.println("Nome e:" + nome);
+        // }
 
-        nomes.forEach(nome -> System.out.println("O nome que apareceu foi "+ nome));
+        nomes.forEach(nome -> System.out.println("O nome que apareceu foi " + nome));
     }
 }
