@@ -1,5 +1,7 @@
+package primeirasAulas;
+
 public class While {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int valorInicial = 0;
         while (valorInicial < 3) {
             System.out.println("O valor inicial é menor que 3");
