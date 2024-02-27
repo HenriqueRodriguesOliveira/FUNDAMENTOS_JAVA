@@ -9,5 +9,4 @@ public class PrimeiraClasse {
         String dadoDoTipoString = "Hello World";
         boolean dadoDoTipoBoolean = false;
     }
-
 }
