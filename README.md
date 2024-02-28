@@ -4,7 +4,7 @@
 <h1>Fundamentos em Java!</h1>
 </div>
 
-<img src="https://github.com/Krissafff/fundamentos_java/assets/79226722/a86c2ae5-1e66-4aaf-bfa9-91c1fbd51daa" alt="Imagem da IDE com códigos JAVA">
+<img src="https://github.com/HenriqueRodriguesOliveira/FUNDAMENTOS_JAVA/assets/79226722/b41e7d40-0b58-493a-b7e3-cbb5ed390015" alt="Imagem da IDE com códigos JAVA">
 </br>
 </br>
 
