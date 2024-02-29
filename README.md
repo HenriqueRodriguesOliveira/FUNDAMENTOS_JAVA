@@ -34,6 +34,7 @@ Neste projeto eu desenvolvi códigos com relação aos fundamentos do Java.
    
 ## Fontes
 * [Roadmap de Java](https://roadmap.sh/java)
+* [Documentação Java básico](https://glysns.gitbook.io/java-basico/)
 * [Aulas da Loiane Groner sobre Lista Encadeada](https://www.youtube.com/@loianegroner)
 * [Curso Rockeseat Java](https://www.rocketseat.com.br/)
 * [Curso POO do Gustavo Guanabara](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo)
