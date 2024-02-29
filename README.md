@@ -9,25 +9,28 @@
 </br>
 
 ## Sobre o Projeto
-Neste projeto eu desenvolvi códigos com relação aos fundamentos do Java.
+Neste projeto eu desenvolvi códigos com relação aos estudos de fundamentos sobre Java.
+- [x] Tipos de Dados
 - [x] Estrutura de repetição.
-- [x] Estrutura de dados.
+- [x] Estrutura de Dados Lista.
 - [x] Hash Map.
 - [x] Hash Set.
 - [X] POO.
 - [X] Encapsulamento.
-- [X] Herança. Polimorfismo.
+- [X] Herança.
+- [x] Polimorfismo.
 - [x] Exceções.
 - [x] Construtor.
-- [X] Wrappers.
+- [X] Wrappers Classes.
 
 ## Requisitos
- * IDE de sua escolha(VScode / Eclipse).
+ * IDE de sua escolha(VScode / Eclipse / IntelliJ).
  * Java 17
- * Docker
+ * Maven
+ - [Guia de configuração de ambiente.](https://efficient-sloth-d85.notion.site/Configura-o-de-ambiente-Java-ed669fd2bf074d168689c7517359788c)
 
 ## Instalação
-1. Copiei o link do projeto que está no Github.
+1. Copie o link do projeto que está no Github.
 2. Instale o Git.
 3. No CMD digite git LinkDoProjetoGithub.
 4. Configure a sua máquina de acordo com os requisitos solicitado acima.
