@@ -41,6 +41,7 @@ Neste projeto eu desenvolvi códigos com relação aos estudos de fundamentos so
 * [Aulas da Loiane Groner sobre Lista Encadeada](https://www.youtube.com/@loianegroner)
 * [Curso Rockeseat Java](https://www.rocketseat.com.br/)
 * [Curso POO do Gustavo Guanabara](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo)
+* [Java COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/java-curso-completo/)
 
 ## Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
