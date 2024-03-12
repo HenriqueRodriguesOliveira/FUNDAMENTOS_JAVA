@@ -24,7 +24,7 @@ Neste projeto eu desenvolvi códigos com relação aos estudos de programação 
  * IDE de sua escolha(VScode / Eclipse / IntelliJ).
  * Java 17
  * Maven
- - [Guia de configuração de ambiente.](https://efficient-sloth-d85.notion.site/Configura-o-de-ambiente-Java-ed669fd2bf074d168689c7517359788c)
+ * [Guia de configuração de ambiente.](https://efficient-sloth-d85.notion.site/Configura-o-de-ambiente-Java-ed669fd2bf074d168689c7517359788c)
 
 ## Instalação
 1. Copie o link do projeto que está no Github.
